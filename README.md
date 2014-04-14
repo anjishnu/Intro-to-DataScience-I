@@ -1,6 +1,5 @@
 
 
-
 About twitterstream.py: 
 
 Used to fetch live stream data from twitter.
